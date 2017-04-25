@@ -1,16 +1,24 @@
+# Basics
 ## Basic Javascript
 * https://github.com/workshopper/javascripting
 * https://github.com/workshopper/learnyounode
 * https://github.com/workshopper/scope-chains-closures
-* https://github.com/workshopper/stream-adventure
 * https://github.com/timoxley/functional-javascript-workshop
 * https://github.com/sporto/planetproto
 * https://github.com/excellalabs/js-best-practices-workshopper
 * https://github.com/kishorsharma/currying-workshopper
-
-## Async
+* https://github.com/workshopper/regex-adventure
 * https://github.com/stevekane/promise-it-wont-hurt
+
+## Exam
+* https://github.com/cretrix/js-assessment
+
+# Advanced
+## Async
 * https://github.com/bulkan/async-you
+
+## Sreams
+* https://github.com/workshopper/stream-adventure
 
 ## Preprocessors
 * https://github.com/workshopper/learn-sass
@@ -33,9 +41,6 @@
 
 ## Testing
 * https://github.com/finnp/test-anything
-
-## Regex
-* https://github.com/workshopper/regex-adventure
 
 ## Browserify
 * https://github.com/workshopper/browserify-adventure
