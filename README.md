@@ -33,19 +33,12 @@
 * https://github.com/evanlucas/learnyoumongo
 * https://github.com/robertkowalski/learnyoucouchdb
 
-#### React
-* https://github.com/workshopper/learnyoureact
-* https://github.com/asbjornenge/thinking-in-react
-
 #### Lodash
 * https://github.com/mdunisch/lololodash
 
 #### Test and debug
 * https://github.com/finnp/test-anything
 * https://github.com/othiym23/bug-clinic
-
-#### Browserify
-* https://github.com/workshopper/browserify-adventure
 
 #### Ecmascript 6
 * https://github.com/yosuke-furukawa/tower-of-babel
